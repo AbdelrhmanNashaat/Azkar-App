@@ -8,7 +8,6 @@ void main() {
 
 class AzkarApp extends StatelessWidget {
   const AzkarApp({super.key});
-
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
